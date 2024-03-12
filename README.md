@@ -1,3 +1,5 @@
+# Face recognition using Eigenfaces
+
 La presente repository affronta il problema del riconoscimento facciale. Nel seguito, si implementa e si analizza un algoritmo per il riconoscimento facciale (``Eigenfaces"). L'ordine espositivo è il seguente:
 
 * presentazione generale del problema affrontato;
